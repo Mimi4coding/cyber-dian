@@ -9,7 +9,7 @@ This is my final dashboard project in order to join the Cyberdian Team !
 
 ## Installation
 
-Install my-project with npm :
+Install my project with npm :
 
 First, you can download every file in a zip folder. 
 Extract the second folder from the zip folder and then name it as you want ("name_you_choose")
