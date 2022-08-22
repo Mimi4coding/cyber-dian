@@ -31,3 +31,8 @@ Then, use the link you generated.
 
 There is no Responsive Design.
 It means that it is more convinient for you to open it and visualize it with a 27 inches computer.
+
+I hope you are satisfied with my final dashboard :)
+
+
+M.E
